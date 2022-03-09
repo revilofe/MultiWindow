@@ -1,3 +1,7 @@
+/**
+ * Basado en https://github.com/JetBrains/compose-jb/tree/master/tutorials/Window_API_new#open-and-close-multiple-windows
+ */
+
 import androidx.compose.desktop.ui.tooling.preview.Preview
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.key
